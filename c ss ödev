@@ -1,0 +1,157 @@
+SORU 1:
+CSS ne anlama geliyor?
+
+Basamaklı Stil Şablonları ya da Basamaklı Biçim Sayfaları
+
+
+SORU 2:
+Harici bir stil sayfasına atıfta bulunmak için doğru HTML hangisidir?
+
+<link rel="stylesheet" type="text/css" href="mystyle.css">  
+
+
+
+SORU 3:
+Bir HTML belgesinde harici stil sayfasına başvurmak için doğru yer neresidir?
+
+<head> bölümü
+
+
+
+
+
+SORU 4:
+Dahili stil sayfasını tanımlamak için hangi HTML etiketi kullanılır?
+
+<style>  
+
+
+SORU 5:
+Satır içi stilleri tanımlamak için hangi HTML niteliği kullanılır?
+
+style  
+
+
+SORU 6:
+Doğru CSS sözdizimi hangisidir?
+
+body {color: black;}  
+
+
+
+SORU 7:
+CSS dosyasına yorum nasıl eklenir?
+
+/* this is a comment */  
+
+
+
+SORU 8:
+Arka plan rengini değiştirmek için hangi özellik kullanılır?
+
+background-color  
+
+
+SORU 9:
+Tüm <h1> öğelerine arka plan rengi nasıl eklenir?
+
+h1 {background-color:#FFFFFF;}  
+
+
+
+SORU 10:
+Bir elementin yazı rengini değiştirmek için hangi CSS özelliği kullanılır?
+
+color  
+
+
+SORU 11:
+Hangi CSS özelliği metin boyutunu kontrol eder?
+
+font-size  
+
+SORU 12:
+Tüm <p> elemanlarını kalın yapmak için doğru CSS sözdizimi nedir?
+
+
+p {font-weight:bold;}  
+
+
+SORU 13:
+Alt çizgisiz hiperlinkleri nasıl gösterirsiniz?
+
+a {text-decoration:none;}  
+
+SORU 14:
+Bir metindeki her kelimenin büyük harfle başlamasını nasıl sağlarsınız?
+
+text-transform:capitalize  
+
+
+SORU 15:
+Bir elementin yazı tipini değiştirmek için hangi özellik kullanılır?
+
+font-family  
+
+
+
+SORU 16:
+Metni nasıl kalın yaparsınız?
+
+font-weight:bold;  
+
+
+SORU 17:
+Bu şekilde bir kenarlığı nasıl gösterirsiniz ?
+
+The top border = 10 pixels
+The bottom border = 5 pixels
+The left border = 20 pixels
+The right border = 1pixel?
+
+border-width:10px 1px 5px 20px;  
+
+
+SORU 18:
+Bir elemanın sol kenar boşluğunu değiştirmek için hangi özellik kullanılır?
+
+margin-left  
+
+SORU 19:
+Padding özelliğini kullanırken; negatif değerler kullanmamıza izin veriliyor mu?
+
+No  
+
+
+SORU 20:
+Öğelerini karelerle listeleyen bir liste nasıl yapılır?
+
+list-style-type: square;  
+
+
+SORU 21:
+'Demo' kimlikli bir öğeyi nasıl seçersiniz?
+
+#demo  
+
+SORU 22:
+Sınıf adı 'test' olan elemanları nasıl seçersiniz?
+
+.test  
+
+SORU 23:
+Bir div öğesinin içindeki tüm p öğelerini nasıl seçersiniz?
+
+div p  
+
+
+SORU 24:
+Seçicileri nasıl gruplandırıyorsunuz?
+
+Her seçiciyi virgülle ayırarak
+
+
+SORU 25:
+Position özelliğinin varsayılan değeri nedir?
+
+static  
