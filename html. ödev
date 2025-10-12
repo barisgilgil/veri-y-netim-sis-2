@@ -1,0 +1,194 @@
+Soru 1:
+HTML neyin kısaltmasıdır?
+
+Hyper Text Markup Language
+
+Soru 2:
+Web standartlarını kim belirler?
+
+The World Wide Web Consortium
+
+Soru 3:
+En büyük başlık için doğru HTML etiketini seçin:
+
+<h1>
+
+Soru 4:
+Satır sonu (line break) eklemek için doğru HTML etiketi hangisidir?
+
+<br>
+
+Soru 5:
+Arka plan rengi eklemek için doğru HTML nedir?
+
+<body style="background-color:yellow;">
+
+Soru 6:
+Önemli metni tanımlamak için doğru HTML etiketini seçin:
+
+<strong>
+
+Soru 7:
+Vurgulanmış metni tanımlamak için doğru HTML etiketini seçin:
+
+<em>
+
+Soru 8:
+Bir köprü (hyperlink) oluşturmak için doğru HTML nedir?
+
+<a href="http://www.w3schools.com">W3Schools</a>
+
+Soru 9:
+Bir bitiş etiketini belirtmek için hangi karakter kullanılır?
+
+/
+
+Soru 10:
+Bir bağlantıyı yeni sekmede veya tarayıcı penceresinde nasıl açarsınız?
+
+<a href="url" target="_blank">
+
+Soru 11:
+Aşağıdakilerden hangisi yalnızca <table> öğelerini içerir?
+
+<table><tr><td>
+
+Soru 12:
+Satır başı yapmadan görüntülenen öğelere inline (satır içi) öğeler denir.
+
+True
+Soru 13:
+Numaralı liste oluşturmak için hangi etiket kullanılır?
+
+<ol>
+
+Soru 14:
+Madde işaretli (bulleted) liste oluşturmak için hangi etiket kullanılır?
+
+<ul>
+
+Soru 15:
+Bir onay kutusu (checkbox) oluşturmak için doğru HTML nedir?
+
+<input type="checkbox">
+
+Soru 16:
+Bir metin giriş alanı (text input) oluşturmak için doğru HTML nedir?
+
+<input type="text">
+
+Soru 17:
+Bir açılır liste (drop-down list) oluşturmak için doğru HTML nedir?
+
+<select>
+
+Soru 18:
+Bir metin alanı (text area) oluşturmak için doğru HTML nedir?
+
+<textarea>
+Soru 19:
+Bir resim eklemek için doğru HTML nedir?
+
+<img src="image.gif" alt="MyImage">
+Soru 20:
+Bir arka plan resmi eklemek için doğru HTML nedir?
+
+<body style="background-image:url(background.gif)">
+Soru 21:
+
+<iframe>, bir web sayfası içinde başka bir web sayfası görüntülemek için kullanılır.
+
+True
+Soru 22:
+HTML yorumları <!-- ile başlar ve --> ile biter.
+
+True
+
+Soru 23:
+Blok öğeleri satır başı yapmadan görüntülenir.
+
+False
+
+Soru 24:
+Bir belgenin başlığını tanımlayan HTML etiketi hangisidir?
+
+<title>
+Soru 25:
+Bir resim görüntülenemediğinde alternatif metin belirten HTML özelliği hangisidir?
+
+alt
+
+Soru 26:
+HTML5 için doğru doctype bildirimi hangisidir?
+
+<!DOCTYPE html>
+
+Soru 27:
+Bir belge veya bölüm için altbilgi (footer) belirten HTML etiketi hangisidir?
+
+<footer>
+
+Soru 28:
+HTML’de SVG öğeleri doğrudan bir HTML sayfasına gömülebilir.
+
+True
+
+Soru 29:
+Video dosyalarını oynatmak için doğru HTML etiketi hangisidir?
+
+<video>
+
+Soru 30:
+Ses dosyalarını oynatmak için doğru HTML etiketi hangisidir?
+
+<audio>
+
+Soru 31:
+HTML’de "contenteditable" genel özelliği ne işe yarar?
+
+Specify whether the content of an element should be editable or not
+
+Soru 32:
+HTML’de onblur ve onfocus nedir?
+
+Event attributes
+
+Soru 33:
+SVG ile tanımlanan grafikler hangi formatta saklanır?
+
+XML
+
+Soru 34:
+HTML <canvas> etiketi ne için kullanılır?
+
+draw graphics
+
+Soru 35:
+Bir giriş alanının doldurulmasının zorunlu olduğunu belirtmek için hangi HTML özelliği kullanılır?
+
+required
+
+Soru 36:
+Bir kaydırma çubuğu (slider) tanımlayan input tipi hangisidir?
+
+range
+
+Soru 37:
+Bir aralık içindeki sayısal ölçümü göstermek için hangi HTML etiketi kullanılır?
+
+<meter>
+
+Soru 38:
+Gezinme bağlantılarını (navigation links) tanımlayan HTML etiketi hangisidir?
+
+<nav>
+
+Soru 39:
+HTML’de <aside> etiketi neyi tanımlar?
+
+Content aside from the page content
+
+Soru 40:
+Bir belge veya bölüm için başlık (header) belirten HTML etiketi hangisidir?
+
+<header>
